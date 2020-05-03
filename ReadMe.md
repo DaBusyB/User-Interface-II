@@ -39,13 +39,13 @@ Once your repository is set up, practice what you learned today to create a port
 - [√ ]  A navigation bar with `About`, `Projects`, and `Contact` that link to the corresponding pages
 - [√ ]  Gallery of projects created with flexbox - you may use random images in place of project screenshots for now with the random image link: https://picsum.photos/ or you may use images that mean something to you
 - [ √]  Information about you in place of the given placeholder
-- [ ]  A `My Projects` button that links to the projects page
-- [ ]  A `Contact Me` button that links to the contact page
+- [√ ]  A `My Projects` button that links to the projects page
+- [ √]  A `Contact Me` button that links to the contact page
 - [ ]  Links to any social media profiles (Instagram, linkedIn, Twitter) into the footer section of your home page
 
 ### Task 2b: Exit Ticket
 
-Once you begin, you will have 15 minutes to answer the questions [here](https://app.codesignal.com/public-test/M94mbzuHGQoMg6F3e/w9GqZYCQ2YoZZf).
+Once you begin, you will have 15 minutes to answer the questions [here](https://app.codesignal.com/public-test/M94mbzuHGQoMg6F3e/w9GqZYCQ2YushoZZf).
 
 The completion of these questions is mandatory for MVP. However, passing the quiz doesn't affect your standing as a Lambda School student whatsoever. This is Lambda School testing itself! Please answer honestly and to the best of your ability *without* using external references.
 

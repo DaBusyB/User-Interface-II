@@ -29,6 +29,11 @@ body {
     flex-direction: column;
 }
 
+a {
+    text-decoration: none;
+    color: black;
+}
+
 .container {
     display: flex;
     flex-direction: column;
@@ -76,7 +81,6 @@ li a:hover {
 }
 
 .content {
-    
     display: flex;
     flex-direction: column;
     padding: 20px;
@@ -137,6 +141,10 @@ button {
     align-items: center;
     justify-content: center;
     width: 100%;
+}
+
+.footer img {
+    margin-top: 10px;
 }
 
 footer p {
